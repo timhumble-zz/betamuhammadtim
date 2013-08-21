@@ -1,5 +1,5 @@
 [title: Advice Part Two: Knowledge & Action - muhammadtim.com]:/
-[menu-locgroup: advice]:/
+[menu-locgroup: advices]:/
 [path: /advice/2]:/
 [alias: /articles/advice/2]:/
 

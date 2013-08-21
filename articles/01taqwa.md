@@ -1,5 +1,5 @@
 [title: Advice Part One: Taqwā - muhammadtim.com]:/
-[menu-locgroup: advice]:/
+[menu-locgroup: advices]:/
 [path: /advice/1]:/
 [alias: /articles/advice/1]:/
 
