@@ -1,6 +1,6 @@
 [title: Advice Regarding Sickness and Difficulty - muhammadtim.com]:/
 [menu: Advice]:/
-[menu-locgroup:articles]:/
+[menu-locgroup: advice]:/
 [path: /anadvice]:/
 [alias: /advice]:/
 [alias: /articles/advice]:/

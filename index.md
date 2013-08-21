@@ -1,5 +1,6 @@
 [title: Muhammad Tim Humble - muhammadtim.com]:/
 [menu: Home]:/
+[menu-locgroup: primary]:/
 [order: 1]:/
 
 #Muhammad Tim Humble - muhammadtim.com

@@ -1,5 +1,6 @@
 [title: Contact Muhammad Tim Humble - muhammadtim.com]:/
 [menu: Contact Me]:/
+[menu-locgroup: primary]:/
 [order: 3]:/
 
 #Contact Me

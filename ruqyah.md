@@ -1,5 +1,6 @@
 [title: Information for Ruqyah Patients - muhammadtim.com]:/
 [menu: Ruqyah]:/
+[menu-locgroup: primary]:/
 [order: 5]:/
 
 #Information for Ruqyah Patients

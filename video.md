@@ -1,5 +1,6 @@
 [title: Muhammad Tim Humble's Video Lectures - muhammadtim.com]:/
 [menu: Videos]:/
+[menu-locgroup: primary]:/
 [order: 4]:/
 
 #Video Lectures
