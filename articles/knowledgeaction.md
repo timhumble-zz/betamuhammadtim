@@ -1,3 +1,0 @@
-[menu-locgroup: ruqyah]:/
-
-#Testing
