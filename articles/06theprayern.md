@@ -3,6 +3,7 @@
 [path: /advice/6]:/
 [alias: /articles/advice/6]:/
 
+
 #An Advice Regarding Sickness & Difficulty, Especially in Relation to Magic
 
 ##Part Six: The Prayer
@@ -20,4 +21,4 @@ down and his family dead – it’s almost impossible to imagine what someone li
 One of the companions narrated that a sick man would "come dragging his feet between two people" just to share in this reward – even though there is no doubt that it is not obligatory for him to attend the masjid if he is so sick that he can’t walk. From these ahādith and others we can see some of the reasons why the sick person is not excused from the prayer for any reason at all – even if their body is paralysed and they can only pray with their eyelids they must do so. As for praying in jamā’ah, this only applies to the men and it is better for a Muslim woman to pray in her house – and even better for her to pray in a certain place in her own room, even though she should not be prevented from going to the masjid. The Messenger of Allāh – may the peace and blessings of Allāh be upon him – said:
 >*"Do not prevent the female servants of Allāh from going to the mosques of Allāh, but their houses are better for them".*
 
-<p style="text-align:center">[Continue Reading](/advice/7), [Go Back](/advice/5), or [View the Contents Page](/advice)
+<p style="text-align:center">[Continue Reading](/advice/7), [Go Back](/advice/5), or [View the Contents Page](/anadvice)

@@ -3,9 +3,10 @@
 [path: /advice/4]:/
 [alias: /articles/advice/4]:/
 
+
 #An Advice Regarding Sickness & Difficulty, Especially in Relation to Magic
 
-##Part Two: Du'a & Its Etiquettes
+##Part Four: Du'a & Its Etiquettes
 <br/>
 All of this leads you to another pillar of a Muslim’s relationship with his or her Lord: thinking good of Allāh. Allāh The Exalted said in what the Prophet – may the peace and blessings of Allāh be upon him – narrated:
 
@@ -27,4 +28,4 @@ This makes clear the foolishness of the people who say, "This is Allāh’s ang
 As for the head of this bird, it is the love of Allāh. Allāh said,:
 **"And [yet], among the people are those who take other than Allāh as equals [to Him]. They love them as they [should] love Allāh. But those who believe are stronger in love for Allāh."**
 Don’t forget that there are times and etiquettes which will help your du’ā to be answered; being in a state of wudoo’, raising your hands (in individual du’ā or du’ā for rain), making du’ā between the adhān and the iqāmah, and in the last third of the night, and in the pause between the two khutbahs in Jumu’ah. This is a long topic and I recommend referring to the tips page, [here](http://duas.com/tips.php).
-<p style="text-align:center">[Continue Reading](/advice/5), [Go Back](/advice/3), or [View the Contents Page](/advice)
+<p style="text-align:center">[Continue Reading](/advice/5), [Go Back](/advice/3), or [View the Contents Page](/anadvice)

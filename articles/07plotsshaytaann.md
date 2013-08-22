@@ -3,6 +3,7 @@
 [path: /advice/7]:/
 [alias: /articles/advice/7]:/
 
+
 #An Advice Regarding Sickness & Difficulty, Especially in Relation to Magic
 
 ##Part Seven: The Plots of the Shaytān
@@ -30,4 +31,4 @@ He also said to one of the companions:
 >*"If you didn’t cut it off, you would never have been successful"* (i.e., in this world and the next).
 As for that which is purely from Qur’ān, the scholars differed regarding it. The correct opinion, and the one which is reported from the companions – may Allāh be pleased with them – is that it is harām, but it does not count as shirk. What makes it even more dangerous is that I have seen and heard time after time, people who have something they think is the Qur’ān, but inside of it there are other things written between the words – this is the way of the magicians and so called ‘healers’ – may Allāh curse them all! How many people have been cured from magic when their so called ‘ta’weez’ given by their holy shaykh was cut from their neck! Allāh is the one whose help is sought. More information can be found [here](/taweez).
 At this point there is something very important to mention; it could be said: ‘but I know so and so who wore a charm and they were cured’. I reply that I have no doubt about this. Remember that the number one aim of the shaytān is to make you disbelieve in Allāh. As soon as you trust in the charm you have disbelieved, or come close to disbelief, and therefore the shaytān’s work is done – he will quite happily leave. Even when being defeated, the shaytān tries the same trick. Often he will say to a person doing ruqyah, "I will leave for your sake." If that person agrees the shaytān is happy and will often leave. However, when you reply, "no you will leave for Allāh’s sake," you find him much less co-operative! This explains the Christian missionaries who remove the shaytān ‘in the name of Jesus’ and so on.In the case of pictures, if your house contains them, no angel will enter your house and therefore your house will be a home for the shaytān – no matter what other things you do to keep him out.
-<p style="text-align:center">[Continue Reading](/advice/8), [Go Back](/advice/6), or [View the Contents Page](/advice)
+<p style="text-align:center">[Continue Reading](/advice/8), [Go Back](/advice/6), or [View the Contents Page](/anadvice)

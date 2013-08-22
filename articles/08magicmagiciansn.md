@@ -3,6 +3,7 @@
 [path: /advice/8]:/
 [alias: /articles/advice/8]:/
 
+
 #An Advice Regarding Sickness & Difficulty, Especially in Relation to Magic
 
 ##Part Eight: Magic & Magicians
@@ -21,4 +22,4 @@ This āyah explains the foundations of magic and can be summarised briefly in f
 As for distinguishing a magician from an honest person who performs ruqyah, there are many signs – although they are not always easy to see and the best way is to avoid going to these people at all, or if you must do so, going to the people who are known for their love of the sunnah. From the signs of a magician are:• Asking names, especially the name of the sick person’s mother• Asking for huge amounts of money in order to cure• Giving charms, potions, and speaking words which are not understood• Asking for animals to be slaughtered, often in particular places• Asking for an item of the sick person or their family, such as clothes, hair etc.
 However, you must bear in mind that many magicians conceal these signs, and many of them are from the most ‘religious’ of people in their appearance. One of our teachers told us that there was a magician who used to pray five times every day in the Mosque. He used to come even before the mu’addhin. When he was caught they asked him about it and he replied that the shaytān ordered him to go and pray – but without wudoo’. In this way people are fooled into thinking these so called ‘healers’ are the friends of Allāh, when in fact they are from His greatest enemies.This is what Allāh has made easy for me to mention. I ask Him by every one of His Names; which He named Himself, or sent down in His book, or taught any of His servants, or kept concealed in the knowledge of the unseen which is with Him, to grant us the highest level of His paradise and to allow us to enter it without any punishment or reckoning. And I ask Him by the fact that His mercy encompasses every thing, to cure us all of our sicknesses – those in our bodies and those in our hearts – and to make our path easy for us, and to give us the strength to fight against magic and the evil magicians who practice it. He is able to do all things. May peace and blessings upon our Messenger Muhammad, and upon his family and his companions and all those who follow them until the Last Day.>**"Glorified be your Lord, the Lord of Honour and Power! (He is free) from what they attribute unto Him! And peace be upon the messengers. And praise to Allāh, Lord of the worlds."**
 Muhammad Tim Humble
-<p style="text-align:center">[Go Back](/advice/7) or [View the Contents Page](/advice)
+<p style="text-align:center">[Go Back](/advice/7) or [View the Contents Page](/anadvice)
