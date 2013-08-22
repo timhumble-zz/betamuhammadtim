@@ -1,6 +1,6 @@
 [title: How and How Not to Type Islamic Phrases on Mobile Phones - muhammadtim.com]:/
-[menu: Shortcuts]:/
-[menu-locgroup: primary]:/
+[menu: Islamic Phrases on Mobiles]:/
+[menu-locgroup: articles]:/
 [order: 20]:/
 
 #How and How Not to Type Islamic Phrases on Mobile Phones
